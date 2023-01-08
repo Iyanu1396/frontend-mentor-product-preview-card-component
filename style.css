@@ -105,6 +105,10 @@ p{
     top: -18px;
 }
 
+.btn:hover{
+    background-color: hsl(159, 33%, 25%);
+}
+
 .icon{
     position: relative;
     top: 5px;
@@ -116,21 +120,16 @@ p{
 @media (max-width: 600px) {
     body {
       margin: 25px 15px;
-      overflow-x: hidden;
-      
+      overflow-x: hidden;     
     }
     .product-img1{
         display: none;
-
-
     }
     .product-img2{
         display: flex;
         width: 100%;
         border-top-left-radius:10px ;
         border-top-right-radius: 10px;
-      
-
     }
     .wrapper{
         display: flex;
