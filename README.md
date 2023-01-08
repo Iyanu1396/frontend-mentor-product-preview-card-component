@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iyanu1396/frontend-mentor-product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://iyanu-products-preview-card.netlify.app/)
+- Solution URL: [(https://github.com/Iyanu1396/frontend-mentor-product-preview-card-component](https://github.com/Iyanu1396/frontend-mentor-product-preview-card-component)
+- Live Site URL: [[Add live site URL here](https://iyanu-products-preview-card.netlify.app/)](https://iyanu-products-preview-card.netlify.app/)
 
 
 
