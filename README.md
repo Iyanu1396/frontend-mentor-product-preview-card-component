@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Iyanu1396/frontend-mentor-product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://iyanu-products-preview-card.netlify.app/)
+- Solution URL: [https://github.com/Iyanu1396/frontend-mentor-product-preview-card-component](https://github.com/Iyanu1396/frontend-mentor-product-preview-card-component)
+- Live Site URL: [https://iyanu-products-preview-card.netlify.app/](https://iyanu-products-preview-card.netlify.app/)](https://iyanu-products-preview-card.netlify.app/)
 
 
 
@@ -46,7 +46,6 @@ using media queries to change what image gets displayed on different screen size
 
 - Frontend Mentor - [@yiyanu1396](https://www.frontendmentor.io/profile/Iyanu1396)
 - Twitter - [@iyanu_codes](https://twitter.com/iyanu_codes)
-
 
 
 
