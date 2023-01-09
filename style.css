@@ -4,7 +4,10 @@
 
 body{
    background-color: hsl(30, 38%, 92%);
-  margin: 90px auto;
+   min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
    overflow-x: hidden;
 }
 
